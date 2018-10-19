@@ -1,0 +1,3 @@
+beyblade dragoon,300
+beyblade lot,500
+corsair strafe rgb,100

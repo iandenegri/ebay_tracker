@@ -1,0 +1,1 @@
+This file logs items that have already been found.
